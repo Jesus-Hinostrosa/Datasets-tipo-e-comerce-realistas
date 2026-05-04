@@ -1,6 +1,6 @@
 # Limpieza de datos realistas con Python 
 
-Con asistencia de una IA se generó el código del archivo "data_ecomerce_dirty.ipynb", que simula las ventas de un e-comerce, en este dataset se incluyen los tres archivos:
+Con asistencia de una IA se generó el código del archivo "data_ecomerce_dirty.ipynb", que simula las ventas de un e-comerce con una gran cantidad de entradas y con errores tipos que deben ser corregidos en el proceso de limpieza de datos, en este dataset se incluyen los tres archivos:
 
 orders_dirty.cvs
 
