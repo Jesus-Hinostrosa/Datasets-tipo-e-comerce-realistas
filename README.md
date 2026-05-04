@@ -9,7 +9,7 @@ products_dirty.cvs
 customers_dirty.cvs
 
 En Python se desarrolló el código del archivo "Realistic data cleaning.ipynb".
-En este archivo se tiene una libreta en Jupyter que muestra detalladamente el proceso de limpieza de datos y el análisis de KPIs de una empresa de e-comerce.
+En este archivo se tiene una libreta en Jupyter que muestra detalladamente el proceso de limpieza de datos y el análisis de KPIs para una empresa de e-comerce.
 El resultados son los archivos: 
 
 orders_cleaned.cvs
